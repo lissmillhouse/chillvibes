@@ -1,0 +1,36 @@
+body{
+	background-color: lightgray;
+}	
+
+
+
+	h1{
+		color: #db92bb;
+		font-size: 46px;
+		font-family: tahoma; 
+		text-decoration: underline;
+	}
+
+
+
+	#first{font-size:80px;}
+
+ .small{
+ 	font-size:16px;
+}
+	h2{
+		font-size:26px;
+		font-weight:bold;
+		color: #64add4;
+		text-transform: uppercase;
+	}
+
+
+span{
+	font-style: italic;
+
+}
+
+h2 span{
+	text-decoration: line-through;
+}
